@@ -1,37 +1,29 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "Dry Fire",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "Six pieces hidden. One family’s debt waiting to be paid.",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "A divorced, jobless man finds a gun in his ancestral house and vanishes, leaving his daughter to rebuild it from his clues while men from a land company come for the house.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "slug": "Dry Fire",
+      "title": "Part One: Six Chambers",
+      "subtitle": "Short story",
+      "file": "books/Part One: Six Chambers.txt",
+      "setting": "Modern India"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
-    },
-        {
-      "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "Dry Fire",
+      "title": "Part Two: Reassembly",
+      "subtitle": "Short story",
+      "file": "books/Part Two: Reassembly.txt",
+      "setting": "Modern India"
     }
   ]
 }
